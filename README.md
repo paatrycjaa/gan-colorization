@@ -10,3 +10,4 @@ The colors are important in analysis and image processing. Therefore, colorizati
 ### Technologies
 * Python 3
 * Keras/Tensorflow
+* Jupyter Notebook
